@@ -1,0 +1,17 @@
+.container {
+  background-color: #FFF;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  height: 100%;
+  overflow: auto;
+}
+
+.svg {
+  background-color: #FFF;
+  color: #5A5A5A;
+  height: 1920px;
+  width: 1920px;
+}
