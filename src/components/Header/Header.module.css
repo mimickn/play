@@ -1,0 +1,12 @@
+.container {
+  height: 64px;
+  width: 100%;
+  background-color: #5A5A5A;
+  padding: 0 32px;
+  margin: auto 0;
+  display: flex;
+}
+
+.container > :not(:last-child) {
+  margin-right: 16px;
+}
